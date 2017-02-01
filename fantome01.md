@@ -5,7 +5,7 @@ Actions | Terminal (ou cmder par ex.) | GitHub | GitKraken | Sous Mac (Terminal 
 Vérifier le répertoire en cours d'utilisation **sous MAC ou autre** | **pwd** | **pwd** | **pwd** | **pwd** pour Present Writing Directory
 Créer un _dossier_ | **mkdir** mondossier | :imp: | :imp: | :octocat:
 _(Ré-)_ Initialiser le tracking d'un _dossier_ | **git init** | :imp: | :imp: | :octocat:
-Créer un _fichier_ | **touch** monfichier.ext | bouton `create new file` | :octocat: | :octocat: | :octocat:
+Créer un _fichier_ | **touch** monfichier.ext | bouton `create new file` | :imp: | :octocat: | :octocat:
 Voir les sous-dossiers | **ls** _qui est l'abbréviation anglaise de `list subfiles`_ | :octocat: | :octocat: | :octocat:
 Voir les sous-dossiers **cachés** | **ls -a** | :octocat: | :octocat: | :octocat:
 Vérifier l'état des dossiers et fichiers trakés avec git | **git status** | :octocat: | :octocat: | :octocat:
